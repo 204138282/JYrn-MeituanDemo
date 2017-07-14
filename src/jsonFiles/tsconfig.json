@@ -1,0 +1,42 @@
+[
+        {
+            "icon": "icon_homepage_foodCategory",
+            "title": "美食"
+        },
+        {
+          "icon": "icon_homepage_movieCategory",
+          "title": "电影"
+        },
+        {
+          "icon": "icon_homepage_hotelCategory",
+          "title": "酒店"
+        },
+        {
+          "icon": "icon_homepage_KTVCategory",
+          "title": "KTV"
+        },
+        {
+          "icon": "icon_homepage_default",
+          "title": "优惠买单"
+        },
+        {
+          "icon": "icon_homepage_foottreatCategory",
+          "title": "周边游"
+        },
+        {
+          "icon": "icon_homepage_lifeServiceCategory",
+          "title": "生活服务"
+        },
+        {
+          "icon": "icon_homepage_entertainmentCategory",
+          "title": "休闲娱乐"
+        },
+        {
+          "icon": "icon_homepage_beautyCategory",
+          "title": "丽人/美发"
+        },
+        {
+          "icon": "icon_homepage_shoppingCategory",
+          "title": "购物"
+        }
+]

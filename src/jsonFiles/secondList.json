@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "beauty_technician_v15",
+    "title": "立减15元",
+    "tip": "不用排队哦"
+  },
+  {
+    "icon": "icon_mine_balance",
+    "title": "电影特惠",
+    "tip": "19.9元起"
+  },
+  {
+    "icon": "icon_mine_customerService",
+    "title": "旅游出行",
+    "tip": "就'暑'你会玩"
+  },
+  {
+    "icon": "icon_mine_voucher",
+    "title": "今日推荐",
+    "tip": "品质生活指南"
+  }
+]

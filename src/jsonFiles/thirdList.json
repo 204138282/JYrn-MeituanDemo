@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "icon_mine_aboutmeituan",
+    "title": "汉拿山",
+    "tip": "[北京等]110元代金券1张，可叠加",
+    "price": "120元"
+  },
+  {
+    "icon": "icon_mine_comment",
+    "title": "吉野家",
+    "tip": "[上海等等]无代金券可用",
+    "price": "125元"
+  },
+  {
+    "icon": "icon_mine_membercard",
+    "title": "必胜客",
+    "tip": "[西安等]30元代金券1张，不可叠加",
+    "price": "59元"
+  },
+  {
+    "icon": "icon_mine_membercenter",
+    "title": "凯斯贝恩",
+    "tip": "[9店通用]巧克力蛋糕1个，约8英寸，圆形",
+    "price": "251元"
+  },
+  {
+    "icon": "icon_mine_mineorder",
+    "title": "新辣道鱼火锅",
+    "tip": "[38店通用]100元代金券1张，可叠加",
+    "price": "123元"
+  },
+  {
+    "icon": "icon_mine_wallet",
+    "title": "站点披萨",
+    "tip": "[18店通用]50元代金券1张，可叠加",
+    "price": "99元"
+  },
+  {
+    "icon": "icon_mine_voucher",
+    "title": "新乐",
+    "tip": "[新乐购物券]100元购物券，不可叠加，限7月31前使用",
+    "price": "1314元"
+  },
+  {
+    "icon": "icon_user_avatar_anonymous",
+    "title": "牛肉面大王",
+    "tip": "好吃有劲道！",
+    "price": "66元"
+  }
+]
